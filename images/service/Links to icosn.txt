@@ -1,0 +1,34 @@
+FPGA-SoC: 
+https://www.iconfinder.com/editor/?id=2890574&hash=d8aa84819df82b02bf56b9426392236fa2919d52056eb88928b8b114
+
+
+VHDL/Verilog:
+https://www.iconfinder.com/editor/?id=298769&hash=a68f5e68b36721d5a429f15a35a2646641dd5b5537acf12a6e8001b9
+
+
+Android APP:
+https://www.iconfinder.com/editor/?id=2333410&hash=a0f3864c2d2251fdbcb35d2ea5aa72bc83bc272dc7f9c4bda7429a9e
+
+
+AWS Cloud:
+https://www.iconfinder.com/icons/1313556/aws_communication_internet_media_social_technology_website_icon
+
+Cybersecurity:
+https://www.iconfinder.com/editor/?id=1034363&hash=196d9fe001d82a9e7201864184678bb403728f418ee3397c1ec2467a
+
+RUST:
+https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg
+
+
+C/Python:
+https://www.iconfinder.com/editor/?id=7076585&hash=54382d04b5a497f8e9a0ea41c2af64b9f4d6c21843d228f74786745d
+
+Cloud-OS:
+https://www.iconfinder.com/editor/?id=2890563&hash=2f3eeb189db08053696cd85895fbb77b2e619cbd55e469869d72c66e
+
+Pentesting:
+https://www.iconfinder.com/editor/?id=4472995&hash=81419f1e7e1b7e0c92468d95c6927b08f5b663cd388d713213be5c05
+
+
+Lifecycle:
+https://www.iconfinder.com/editor/?id=6588493&hash=726e16500704a9336f1ff6d05bc294511f71ccea3ec1f5dd6a0001fe
